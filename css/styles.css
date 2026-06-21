@@ -142,6 +142,10 @@ h1,h2,h3{font-family:var(--ff-h);font-weight:700;line-height:1.08;letter-spacing
   .reveal{opacity:1;transform:none}
 }
 
+.small-text{
+  font-size:0.7em;
+  color: var(--soft);
+}
 
 /* == VSL + logo == */
 .brand-logo{height:100px;width:auto;display:block}
